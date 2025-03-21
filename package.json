@@ -15,6 +15,8 @@
     "mirador": "^3.3.0",
     "mirador-image-tools": "^0.11.0",
     "mirador-textoverlay": "^0.3.7",
+    "mirador-annotations": "^0.3.0",
+    "mirador-dl-plugin": "^0.12.0",
     "parcel-bundler": "^1.12.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
